@@ -1,0 +1,7 @@
+C:\Users\alan.huanca\source\repos\ExamenNetDeveloper\ExamenNetDeveloper\bin\Debug\ExamenNetDeveloper.exe.config
+C:\Users\alan.huanca\source\repos\ExamenNetDeveloper\ExamenNetDeveloper\bin\Debug\ExamenNetDeveloper.exe
+C:\Users\alan.huanca\source\repos\ExamenNetDeveloper\ExamenNetDeveloper\bin\Debug\ExamenNetDeveloper.pdb
+C:\Users\alan.huanca\source\repos\ExamenNetDeveloper\ExamenNetDeveloper\obj\Debug\ExamenNetDeveloper.csproj.AssemblyReference.cache
+C:\Users\alan.huanca\source\repos\ExamenNetDeveloper\ExamenNetDeveloper\obj\Debug\ExamenNetDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\alan.huanca\source\repos\ExamenNetDeveloper\ExamenNetDeveloper\obj\Debug\ExamenNetDeveloper.exe
+C:\Users\alan.huanca\source\repos\ExamenNetDeveloper\ExamenNetDeveloper\obj\Debug\ExamenNetDeveloper.pdb
